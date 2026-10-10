@@ -1,7 +1,5 @@
 # GABRIEL JOAQUIN
 
-`KAGGLE · QUANT RESEARCH`
-
 <p>
   <a href="https://www.kaggle.com/gabrieljoaquin"><img src="https://img.shields.io/badge/KAGGLE-080807?style=flat&logo=kaggle&logoColor=d4920a&labelColor=080807"/></a>
   <a href="https://github.com/gabrieljoaquin"><img src="https://img.shields.io/badge/GITHUB-080807?style=flat&logo=github&logoColor=d4920a&labelColor=080807"/></a>
@@ -59,9 +57,4 @@ Buenos Aires.
 
 ### `[ 99 ]` METRICS
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieljoaquin&show_icons=true&hide_border=true&bg_color=080807&title_color=d4920a&text_color=c8b88a&icon_color=d4920a" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljoaquin&layout=compact&hide_border=true&bg_color=080807&title_color=d4920a&text_color=c8b88a" width="48%"/>
-</p>
-
-![Contribution Graph](https://ghchart.rshah.org/d4920a/gabrieljoaquin)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljoaquin&bg_color=080807&color=d4920a&line=d4920a&point=c8b88a&area=true&area_color=d4920a&hide_border=true" width="100%"/>
