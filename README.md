@@ -57,4 +57,4 @@ Buenos Aires.
 
 ### `[ 99 ]` METRICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieljoaquin&bg_color=080807&color=d4920a&line=d4920a&point=c8b88a&area=true&area_color=d4920a&hide_border=true" width="100%"/>
+<img src="./contribution_calendar.svg" width="100%"/>
