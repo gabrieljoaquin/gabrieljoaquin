@@ -81,7 +81,7 @@ for idx, label in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
     y = TOP + idx * (CELL + GAP) + 9
     out.append(
         f'<text x="4" y="{y}" fill="{MUTED}" '
-        f'font-family="\'Courier New\', monospace" font-size="9" letter-spacing="1">{label}</text>'
+        f'font-family="\'Trebuchet MS\', sans-serif" font-size="9" letter-spacing="1">{label}</text>'
     )
 
 # Month labels — first week whose first day falls in that month
@@ -95,7 +95,7 @@ for wi, w in enumerate(weeks):
         x = LEFT + wi * (CELL + GAP)
         out.append(
             f'<text x="{x}" y="14" fill="{MUTED}" '
-            f'font-family="\'Courier New\', monospace" font-size="9" letter-spacing="1">'
+            f'font-family="\'Trebuchet MS\', sans-serif" font-size="9" letter-spacing="1">'
             f'{dt.strftime("%b").upper()}</text>'
         )
 
@@ -116,7 +116,7 @@ for wi, w in enumerate(weeks):
 footer_y = height - 4
 out.append(
     f'<text x="{width - 8}" y="{footer_y}" fill="{MUTED}" '
-    f'font-family="\'Courier New\', monospace" font-size="9" letter-spacing="1" '
+    f'font-family="\'Trebuchet MS\', sans-serif" font-size="9" letter-spacing="1" '
     f'text-anchor="end">{total} CONTRIBUTIONS IN THE LAST YEAR</text>'
 )
 
