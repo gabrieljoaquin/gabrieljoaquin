@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="786" height="134" viewBox="0 0 786 134">
 <rect width="786" height="134" fill="#080807"/>
-<text x="4" y="45" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">Mon</text>
-<text x="4" y="73" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">Wed</text>
-<text x="4" y="101" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">Fri</text>
-<text x="32" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">OCT</text>
-<text x="88" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">NOV</text>
-<text x="158" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">DEC</text>
-<text x="214" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">JAN</text>
-<text x="270" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">FEB</text>
-<text x="326" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">MAR</text>
-<text x="396" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">APR</text>
-<text x="452" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">MAY</text>
-<text x="522" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">JUN</text>
-<text x="578" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">JUL</text>
-<text x="634" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">AUG</text>
-<text x="704" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">SEP</text>
-<text x="760" y="14" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1">OCT</text>
+<text x="4" y="45" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">Mon</text>
+<text x="4" y="73" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">Wed</text>
+<text x="4" y="101" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">Fri</text>
+<text x="32" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">OCT</text>
+<text x="88" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">NOV</text>
+<text x="158" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">DEC</text>
+<text x="214" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">JAN</text>
+<text x="270" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">FEB</text>
+<text x="326" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">MAR</text>
+<text x="396" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">APR</text>
+<text x="452" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">MAY</text>
+<text x="522" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">JUN</text>
+<text x="578" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">JUL</text>
+<text x="634" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">AUG</text>
+<text x="704" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">SEP</text>
+<text x="760" y="14" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1">OCT</text>
 <rect x="32" y="22" width="11" height="11" rx="2" fill="#0e0d0b"/>
 <rect x="32" y="36" width="11" height="11" rx="2" fill="#0e0d0b"/>
 <rect x="32" y="50" width="11" height="11" rx="2" fill="#0e0d0b"/>
@@ -385,7 +385,7 @@
 <rect x="760" y="50" width="11" height="11" rx="2" fill="#0e0d0b"/>
 <rect x="760" y="64" width="11" height="11" rx="2" fill="#0e0d0b"/>
 <rect x="760" y="78" width="11" height="11" rx="2" fill="#0e0d0b"/>
-<rect x="760" y="92" width="11" height="11" rx="2" fill="#7a5410"/>
+<rect x="760" y="92" width="11" height="11" rx="2" fill="#a67a15"/>
 <rect x="760" y="106" width="11" height="11" rx="2" fill="#3d2a0a"/>
-<text x="778" y="130" fill="#5a5040" font-family="'Courier New', monospace" font-size="9" letter-spacing="1" text-anchor="end">320 CONTRIBUTIONS IN THE LAST YEAR</text>
+<text x="778" y="130" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1" text-anchor="end">322 CONTRIBUTIONS IN THE LAST YEAR</text>
 </svg>
