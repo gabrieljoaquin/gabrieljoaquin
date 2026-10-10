@@ -55,6 +55,14 @@ Buenos Aires.
 
 ---
 
+### `[ 04 ]` KAGGLE
+
+---
+
+### `[ 05 ]` QUANT
+
+---
+
 ### `[ 99 ]` METRICS
 
 <img src="./contribution_calendar.svg" width="100%"/>
