@@ -383,5 +383,6 @@
 <rect x="760" y="36" width="11" height="11" rx="2" fill="#3d2a0a"/>
 <rect x="760" y="50" width="11" height="11" rx="2" fill="#3d2a0a"/>
 <rect x="760" y="64" width="11" height="11" rx="2" fill="#7a5410"/>
+<rect x="760" y="78" width="11" height="11" rx="2" fill="#0e0d0b"/>
 <text x="778" y="130" fill="#5a5040" font-family="'Trebuchet MS', sans-serif" font-size="9" letter-spacing="1" text-anchor="end">351 CONTRIBUTIONS IN THE LAST YEAR</text>
 </svg>
